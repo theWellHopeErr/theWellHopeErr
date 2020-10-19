@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/theWellHopeErr">
   <img align="left" alt="twhe LinkedIn" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
-
 <a href="https://www.twitter.com/theWellHopeErr/">
   <img align="left" alt="twhe Twitter" width="20px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
