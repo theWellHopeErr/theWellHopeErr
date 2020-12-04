@@ -1,11 +1,17 @@
 # Hello there👋 I'm Suryarajan
 #### Full Stack Developer, Engineer and Tech Enthusiast from India.
 
+<a href="https://theWellHopeErr.github.io/">
+  <img align="left" alt="Portfolio" width="20px" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" />
+</a>
+<a href="https://stackoverflow.com/users/8826642/">
+  <img align="left" alt="StackOverflow" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
+</a>
 <a href="https://www.linkedin.com/in/theWellHopeErr">
-  <img align="left" alt="twhe LinkedIn" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://www.twitter.com/theWellHopeErr/">
-  <img align="left" alt="twhe Twitter" width="20px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  <img align="left" alt="Twitter" width="20px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
 </a>
 
 <br/>
