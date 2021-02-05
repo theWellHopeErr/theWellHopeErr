@@ -8,7 +8,7 @@
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-128.png" />
 </a>
 <a href="https://www.linkedin.com/in/theWellHopeErr">
-  <img align="left" alt="LinkedIn" width="20px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-128.png" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-256.png" />
 </a>
 <a href="https://www.twitter.com/theWellHopeErr/">
   <img align="left" alt="Twitter" width="20px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />
