@@ -2,7 +2,7 @@
 #### Full Stack Developer, Engineer and Tech Enthusiast from India.
 
 <a href="https://theWellHopeErr.github.io/">
-  <img align="left" alt="Portfolio" width="20px" src="https://cdn2.iconfinder.com/data/icons/social-hand-drawn-icons/64/social_7-128.png" />
+  <img align="left" alt="Portfolio" width="20px" src="https://cdn2.iconfinder.com/data/icons/artificial-intelligence-52/48/bl_1645_Search_seo_magnifier_earth_globe_internet-128.png" />
 </a>
 <a href="https://stackoverflow.com/users/8826642/">
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-128.png" />
