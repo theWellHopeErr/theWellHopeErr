@@ -8,7 +8,7 @@
   <img align="left" alt="StackOverflow" width="20px" src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-256.png" />
 </a>
 <a href="https://www.linkedin.com/in/theWellHopeErr">
-  <img align="left" alt="LinkedIn" width="20px" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />
+  <img align="left" alt="LinkedInhttps://thewellhopeerr.github.io/assets/Resume.pdfcolorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />
 </a>
 <a href="https://www.twitter.com/theWellHopeErr/">
   <img align="left" alt="Twitter" width="20px" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />
@@ -18,7 +18,7 @@
 
 **About:** 
 
-- 📝[Resume](https://drive.google.com/file/d/1h13u7_coaQfe05A5eL9GR99pO0b_2BnD/view?usp=sharing)
+- 📝[Resume](https://thewellhopeerr.github.io/assets/Resume.pdf)
 - 🌱 I’m currently learning Artificial Intelligence with Tensorflow
 - 📫 How to reach me: [ssuryarajan@gmail.com](mailto:ssuryarajan@gmail.com?subject=via%20Github%20Profile)
 
